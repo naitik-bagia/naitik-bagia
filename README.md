@@ -1,50 +1,88 @@
-## Hello, I'm Naitik Bagia
+## Hello, I'm Naitik Bagiya 👋
 
-🚀 `SDET Engineer building scalable automation frameworks for web and mobile.`
+🚀 **SDET Engineer building scalable automation frameworks for web and mobile**
 
----
+<table>
+<tr>
+<td width="50%">
 
-### 🔭 I’m currently working on
-- End-to-End automation using **Playwright + TypeScript**
-- Improving **CI/CD pipelines with GitHub Actions and integrating with TestRail**
-- Test automation infrastructure and release validation
+### 🔭 Currently Working On
+- Playwright + TypeScript E2E automation  
+- CI/CD pipelines with GitHub Actions  
+- TestRail integration & reporting  
+- Release validation workflows  
 
-### 🌱 I’m currently learning
-- Advanced **automation architecture**
-- Improving **backend testing strategies**
-- Scalable and Production Friendly **CI pipelines for large test suites**
+</td>
+<td width="50%">
 
-### 👯 I’m looking to collaborate on
-- Automation frameworks  
-- Testing infrastructure  
-- Developer tooling projects  
+### 🌱 Currently Learning
+- Advanced automation architecture  
+- Backend testing strategies  
+- Scalable CI pipelines for large suites
+- iOS automation testing
 
-### 💬 Ask me about
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+### 💬 Ask Me About
 - Playwright automation  
 - TypeScript  
 - CI/CD pipelines  
-- TestRail integrations  
+- TestRail integration  
 - Jira workflow automation  
-- Next.js / NestJS development  
+- Next.js / NestJS  
 
-### 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/naitik-bagia
+</td>
+<td width="50%">
+
+### 📫 Connect With Me
+LinkedIn  
+www.linkedin.com/in/naitik-bagia  
+
+⚡ Fun fact  
+I enjoy building automation that removes repetitive work from engineering teams.
+
+</td>
+</tr>
+</table>
+
+---
 
 ### ⚡ Tech Stack
 
+<table>
+<tr>
+<td>
+
 **Core**
-- TypeScript
-- Playwright
-- GitHub Actions
-- TestRail
-- Jira Automation
+
+- TypeScript  
+- Playwright  
+- GitHub Actions  
+- TestRail  
+- Jira Automation  
+
+</td>
+<td>
 
 **Development**
-- Next.js
-- NestJS
+
+- Next.js  
+- NestJS  
+
+</td>
+<td>
 
 **Cloud**
-- AWS (S3, EC2)
 
-### ⚡ Fun fact
-I enjoy building automation that removes repetitive work and makes releases smoother for engineering teams.
+- AWS S3  
+- AWS EC2  
+
+</td>
+</tr>
+</table>
